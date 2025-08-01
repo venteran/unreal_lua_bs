@@ -71,3 +71,5 @@
 # 技术支持
 - 官方交流QQ群：936285107
 - 推荐VSCode插件：[Lua Booster](https://marketplace.visualstudio.com/items?itemName=operali.lua-booster)
+
+-测试Git中的Push功能
